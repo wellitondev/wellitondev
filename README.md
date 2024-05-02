@@ -12,4 +12,4 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div><br/>
 
-Entusiasta e estudante de TI.
+sou um programador que não apenas domina a arte do código, mas também sou apaixonados por transformar ideias em realidade. quero fazer parte de uma equipe para que juntos possamos construir soluções incríveis!
